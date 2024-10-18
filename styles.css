@@ -54,3 +54,7 @@ p {
     opacity: 2.0;
 border: 5px solid rgb(92, 4, 4);
 }
+
+.categoria h2{
+    color:rgb(126, 0, 0) 
+}
